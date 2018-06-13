@@ -1,0 +1,32 @@
+list of common Git commands
+ 
+git init
+This command turns a directory into an empty Git repository.
+
+git add
+Adds files in the to the staging area for Git.
+
+git commit
+git commit -m "Commit message"
+Record the changes made to the files to a local repository.
+
+git status
+This command returns the current state of the repository.
+
+git config
+tell git who you are
+#running git config globally
+$ git config --global user.email "my@emailaddress.com"
+$ git config --global user.name "Geetika"
+
+there are many configurations and settings possible. git config is how to assign these settings. 
+
+git pull
+To get the latest version of a repository run git pull.
+
+git push
+git push origin master
+Sends local commits to the remote repository. 
+
+git log
+This helps give context and history for a repository. 
