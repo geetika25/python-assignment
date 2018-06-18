@@ -24,7 +24,6 @@ d=int (input("enter the width of shape"))
 if a==b==c==d:
  print("square")
 elif a==b and c==d:
- print("\n")
  print("rectangle")
 else :
  print("not square & not rectangle") 

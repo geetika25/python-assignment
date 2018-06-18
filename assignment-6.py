@@ -100,7 +100,7 @@ for x in range(5):
  x=int(input("enter a no."))
  list.append(x)
 print("list",list) 
-v=int(input("enter no. you want to search : "))
+v=int(input("enter no. you want to search : sssss"))
 for y in list:
  if y==v:
   print("value found",y)
