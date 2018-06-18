@@ -1,11 +1,6 @@
 #ASSIGNMENT-7
 
-
-
-
 #FUNCTIONS
-
-
 
 #Let’s create methods for Python. 
 
@@ -66,6 +61,9 @@ table(12,1)
 
 
 #Write a function to calculate power of a number raised to other ( a^b ) using recursion.
+
+
+
 n1=int(input("enter any number : "))
 n2=int(input("power of number : "))
 def power(a,b):
@@ -83,6 +81,9 @@ print("power : ",p)
 
 
 #Write a function to find factorial of a number but also store the factorials calculated in a dictionary.
+
+
+
 n=int(input("enter any number : "))
 def rec(x):
  if (x==1 or x==0):
