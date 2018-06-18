@@ -10,7 +10,7 @@ for x in range (c):
  print(n)
 
  
-#QUESTION: 2  
+ #QUESTION: 2  
 
 #Write an Infinite Loop.
 #n=int(input("Enter any number"))
