@@ -16,7 +16,8 @@ else:
    print(" not a leap year")
    
 
-#Q2.check the dimensions of square and rectangle.
+
+   #Q2.check the dimensions of square and rectangle.
 a=int (input("enter the lenght of shape"))
 b=int (input("enter the lenght of shape"))
 c=int (input("enter the width of shape"))
@@ -38,7 +39,7 @@ if a>50:
  
  
  
-#Q4.write an if statement to lets competitor know which of these prices they won.
+ #Q4.write an if statement to lets competitor know which of these prices they won.
 s=int(input("enter your score"))
 if s<100:
  print("congratulation!!you won the price j6 infinity samsung set")
