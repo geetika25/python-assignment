@@ -92,7 +92,7 @@ a=int(input("enter your age : "))
 w=input("enter your work_experience")
 d=input("enter your designation")
 c=Mission(n,a,w,d)
-c.display()
+c.display()+
 c.add_mission()
 c.update(input("enter your  good  name : "),int(input("enter your age : ")),input("enter your work_experience"),input("enter your designation"))
 c.display()

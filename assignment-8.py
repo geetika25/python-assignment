@@ -10,6 +10,7 @@
 
 #What is Time Tuple
 
+
 import time 
 print(time.gmtime(60))
 
@@ -19,10 +20,9 @@ print(time.gmtime(60))
 
 #WAP To Get Formatted Time
 
+
 import time
 print(time.ctime())
-
-
 
 
 #QUESTION: 3  
@@ -48,7 +48,9 @@ l=list(time.localtime())
 print( "day = ",l[2])
 
 
-#QUESTION: 5  
+#QUESTION: 5 
+
+ 
 #Extract date (ex : 11 in 11/01/2021) from the time.
 
 l=[]
@@ -60,6 +62,7 @@ print(l[2],"/",l[1],"/",l[0])
 
 
 #WAP Time Using Local Time
+
 
 import time 
 print(time.localtime())
