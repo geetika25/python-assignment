@@ -1,5 +1,6 @@
 #ASSIGNMENT-17(GUI)
 
+
 #Q1. Write a python program using tkinter interface to write Hello World and a exit button that closes the interface.
 
 import tkinter
@@ -15,6 +16,7 @@ button.pack(fill=X,side=BOTTOM)
 window.mainloop()
 
 #Q2. Write a python program to in the same interface as above and create a action when the button is click it will display some text.
+
 
 
 #import everything from tkinter
